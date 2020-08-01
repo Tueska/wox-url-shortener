@@ -1,0 +1,12 @@
+{
+    "ID":"f192f5fcd44011ea87d00242ac130003",
+    "ActionKeyword":"short",
+    "Name":"THE NULL POINTER URL Short",
+    "Description":"Uses mia-0's URL Shortener (https://github.com/mia-0/0x0)",
+    "Author":"Tueska",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/Tueska",
+    "IcoPath":"icon.png",
+    "ExecuteFileName":"run.py"
+}
